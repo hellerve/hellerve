@@ -32,4 +32,4 @@ me to lisp and smalltalk, but not always.
 
 #### elsewhere
 
-[blog](https://blog.veitheller.de), [website](https://veitheller.de), [talks & writing](https://veitheller.de/talks)
+[blog](https://blog.veitheller.de), [website](https://veitheller.de), [talks & writing](https://veitheller.de/talks.html)
