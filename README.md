@@ -7,8 +7,6 @@ i also have vast experience in **security** and **networking**.
 i live for expressive systems and delightful abstractions. that has often led
 me to lisp and smalltalk, but not always.
 
----
-
 ## projects & contributions
 
 - [**glamorous toolkit**](https://github.com/feenkcom/gtoolkit): a moldable development environment.
@@ -35,15 +33,11 @@ me to lisp and smalltalk, but not always.
 - [**anima.carp**](https://github.com/hellerve/anima.carp): a small animation and drawing framework for carp.
   a sketching tool i built to show off carp.
 
----
-
 ## what i care about
 
 - systems that are moldable, inspectable, and useful
 - tooling that respects our time and attention
 - speaking & writing about the things we do, because i love teaching & learning
-
----
 
 ## elsewhere
 
