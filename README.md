@@ -1,11 +1,11 @@
 ### hi, i'm veit
 
-i'm an technologist at large in erlangen, germany.
+i'm a technologist at large in erlangen, germany.
 i work indepdently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
 i also have vast experience in **security** and **networking**.
 
-i live for expressive systems and delightful abstractions. that has often led
-me to lisp and smalltalk, but not always.
+i live for expressive systems and delightful abstractions. this has often led
+me to lisp and smalltalk.
 
 #### projects & contributions
 
