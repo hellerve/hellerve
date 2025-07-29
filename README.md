@@ -11,7 +11,6 @@ me to lisp and smalltalk, but not always.
 
 - [**glamorous toolkit**](https://github.com/feenkcom/gtoolkit): a moldable development environment.
   i contribute to the core, build the llm integration (gt4llm), documentation, and various language integrations.
-
 - [**carp**](https://github.com/carp-lang/Carp): a statically typed lisp for realtime applications.
   i contributed the macro system as well as various core macros (`setf`, quasiquoting, string formatting etc.), stdlib things, and compiler ergonomics.
   you can find more of my work over at [the carpentry](https://github.com/carpentry-org).
@@ -19,14 +18,10 @@ me to lisp and smalltalk, but not always.
 ##### experiments
 
 - [**sbcli**](https://github.com/hellerve/sbcli): a repl for sbcl that doesn’t suck. built to improve my interactive lisp experience outside of an editor.
-
 - [**microml**](https://github.com/hellerve/microml): a minimalist ml-style language compiler and interpreter in under 750 lines of python.
-
 - [**mae**](https://github.com/hellerve/mae): maps are everything.
-
 - [**compfuck**](https://github.com/hellerve/compfuck): a brainfuck compiler written in carp macros that runs entirely at compile time.
   an exploration of compile-time evaluation and language minimalism. if you’re fancy, think of it as futamura projections.
-
 - [**cspfuck**](https://github.com/hellerve/cspfuck): brainfuck with actors, written in c, without dependencies, with a x86 jit.
 
 #### what i care about
