@@ -13,15 +13,14 @@ me to lisp and smalltalk, but not always.
   i contribute to the core, build the llm integration (gt4llm), documentation, and various language integrations.
 
 - [**carp**](https://github.com/carp-lang/Carp): a statically typed lisp for realtime applications.
-  i contributed the macro system as well as various core macros (`setf`, quasiquoting, inline C and assembly), standard tooling, and compiler ergonomics.
+  i contributed the macro system as well as various core macros (`setf`, quasiquoting, string formatting etc.), stdlib things, and compiler ergonomics.
   you can find more of my work over at [the carpentry](https://github.com/carpentry-org).
 
 ##### experiments
 
-- [**sbcli**](https://github.com/hellerve/sbcli): a simple repl for sbcl with command introspection, history, and readline support.
-  i built it to improve my interactive lisp experience outside of an editor.
+- [**sbcli**](https://github.com/hellerve/sbcli): a repl for sbcl that doesn’t suck. built to improve my interactive lisp experience outside of an editor.
 
-- [**microml**](https://github.com/hellerve/microml): a minimalist ml-style language with a complete compiler and interpreter in under 750 lines of python.
+- [**microml**](https://github.com/hellerve/microml): a minimalist ml-style language compiler and interpreter in under 750 lines of python.
 
 - [**mae**](https://github.com/hellerve/mae): maps are everything.
 
@@ -36,6 +35,6 @@ me to lisp and smalltalk, but not always.
 - tooling that respects our time and attention
 - speaking & writing about the things we do, because i love teaching & learning
 
-## elsewhere
+#### elsewhere
 
 [blog](https://blog.veitheller.de), [website](https://veitheller.de), [talks & writing](https://veitheller.de/talks)
