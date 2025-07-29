@@ -10,7 +10,7 @@ me to lisp and smalltalk, but not always.
 #### projects & contributions
 
 - [**glamorous toolkit**](https://github.com/feenkcom/gtoolkit): a moldable development environment.
-  i contribute to the core, built the llm integration (gt4llm), documentation, and various language integrations.
+  i contribute to the core, build the llm integration (gt4llm), documentation, and various language integrations.
 
 - [**carp**](https://github.com/carp-lang/Carp): a statically typed lisp for realtime applications.
   i contributed the macro system as well as various core macros (`setf`, quasiquoting, inline C and assembly), standard tooling, and compiler ergonomics.
@@ -30,9 +30,6 @@ me to lisp and smalltalk, but not always.
 
 - [**cspfuck**](https://github.com/hellerve/cspfuck): brainfuck with actors, written in c, without dependencies, with a x86 jit.
 
-- [**anima.carp**](https://github.com/hellerve/anima.carp): a small animation and drawing framework for carp.
-  a sketching tool i built to show off carp.
-
 #### what i care about
 
 - systems that are moldable, inspectable, and useful
@@ -41,6 +38,4 @@ me to lisp and smalltalk, but not always.
 
 ## elsewhere
 
-- [blog](https://blog.veitheller.de)
-- [website](https://veitheller.de)
-- [talks & writing](https://veitheller.de/talks)
+[blog](https://blog.veitheller.de), [website](https://veitheller.de), [talks & writing](https://veitheller.de/talks)
