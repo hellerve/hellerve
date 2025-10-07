@@ -1,7 +1,7 @@
 ### hi, i'm veit
 
 i'm a technologist at large in erlangen, germany.
-i work indepdently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
+i work independently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
 i also have vast experience in **security** and **networking**.
 
 i live for expressive systems and delightful abstractions. this has often led
