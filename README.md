@@ -2,7 +2,7 @@
 
 i'm a technologist at large in erlangen, germany.
 i work independently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
-i also have vast experience in **security** and **networking**.
+i also have vast experience in **security** and **networking**, where i spend a lot of my professional engagements.
 
 i live for expressive systems and delightful abstractions. this has often led
 me to lisp and smalltalk.
@@ -23,6 +23,7 @@ me to lisp and smalltalk.
 - [**compfuck**](https://github.com/hellerve/compfuck): a brainfuck compiler written in carp macros that runs entirely at compile time.
   an exploration of compile-time evaluation and language minimalism. if you’re fancy, think of it as futamura projections.
 - [**cspfuck**](https://github.com/hellerve/cspfuck): brainfuck with actors, written in c, without dependencies, with a x86 jit.
+- [**cj**](https://github.com/hellerve-pl-experiments/cj): a dependency-free jit framework for c, with backends for x86 and arm64.
 
 #### what i care about
 
