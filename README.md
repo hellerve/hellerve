@@ -7,6 +7,10 @@ i also have vast experience in **security** and **networking**, where i spend a 
 i live for expressive systems and delightful abstractions. this has often led
 me to lisp and smalltalk.
 
+#### currently
+
+i’m working on security & network automation tools over at [cyberwitchery labs](https://cyberwitchery.com/). find the work [on github](https://github.com/cyberwitchery/).
+
 #### projects & contributions
 
 - [**glamorous toolkit**](https://github.com/feenkcom/gtoolkit): a moldable development environment.
