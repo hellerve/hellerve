@@ -10,6 +10,8 @@ me to lisp and smalltalk.
 #### currently
 
 i’m working on security & network automation tools over at [cyberwitchery labs](https://cyberwitchery.com/). find the work [on github](https://github.com/cyberwitchery/).
+for instance, check out [alembic](https://github.com/cyberwitchery/alembic) for a model-driven dcim/ipam tool, or [familiar](https://github.com/cyberwitchery/familiar)
+for a simple llm workflow orchestrator.
 
 #### projects & contributions
 
