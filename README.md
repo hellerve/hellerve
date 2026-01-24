@@ -7,13 +7,13 @@ i also have vast experience in **security** and **networking**, where i spend a 
 i live for expressive systems and delightful abstractions. this has often led
 me to lisp and smalltalk.
 
-#### currently
+##### currently
 
 i’m working on security & network automation tools over at [cyberwitchery labs](https://cyberwitchery.com/). check [the blog](https://cyberwitchery.com/log/) or
 find the work [on github](https://github.com/cyberwitchery/). for instance, check out [alembic](https://github.com/cyberwitchery/alembic) for a model-driven
 dcim/ipam tool, or [familiar](https://github.com/cyberwitchery/familiar) for a simple llm workflow orchestrator.
 
-#### projects & contributions
+##### projects & contributions
 
 - [**glamorous toolkit**](https://github.com/feenkcom/gtoolkit): a moldable development environment.
   i contribute to the core, build the llm integration (gt4llm), documentation, and various language integrations.
@@ -31,12 +31,12 @@ dcim/ipam tool, or [familiar](https://github.com/cyberwitchery/familiar) for a s
 - [**cspfuck**](https://github.com/hellerve/cspfuck): brainfuck with actors, written in c, without dependencies, with a x86 jit.
 - [**cj**](https://github.com/hellerve-pl-experiments/cj): a dependency-free jit framework for c, with backends for x86 and arm64.
 
-#### what i care about
+##### what i care about
 
 - systems that are moldable, inspectable, and useful
 - tooling that respects our time and attention
 - speaking & writing about the things we do, because i love teaching & learning
 
-#### elsewhere
+##### elsewhere
 
 [blog](https://blog.veitheller.de), [website](https://veitheller.de), [talks & writing](https://veitheller.de/talks.html)
