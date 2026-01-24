@@ -1,4 +1,4 @@
-### hi, i'm veit
+**hi, i'm veit.**
 
 i'm a technologist at large in erlangen, germany.
 i work independently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
