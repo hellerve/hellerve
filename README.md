@@ -2,10 +2,9 @@
 
 i'm a technologist at large in erlangen, germany.
 i work independently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
-i also have vast experience in **security** and **networking**, where i spend a lot of my professional engagements.
+i also have vast experience in **security** and **network automation**, where i spend a lot of my professional engagements.
 
-i live for expressive systems and delightful abstractions. this has often led
-me to lisp and smalltalk.
+i live for expressive systems and delightful abstractions. this has often led me to lisp and smalltalk.
 
 ##### currently
 
