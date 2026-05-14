@@ -15,7 +15,7 @@ dcim/ipam tool, or [familiar](https://github.com/cyberwitchery/familiar) for a s
 ##### projects & contributions
 
 - [**glamorous toolkit**](https://github.com/feenkcom/gtoolkit): a moldable development environment.
-  i contribute to the core, build the llm integration (gt4llm), documentation, and various language integrations.
+  i contributed to the core, built the first versions of the llm integration (gt4llm), documentation, and various language integrations.
 - [**carp**](https://github.com/carp-lang/Carp): a statically typed lisp for realtime applications.
   i work on the compiler and the stdlib, as well as third party libraries.
   you can find more of my work over at [the carpentry](https://github.com/carpentry-org).
