@@ -1,6 +1,6 @@
-**hi, i'm veit.**
+**hi, i’m veit.**
 
-i'm a technologist at large in erlangen, germany.
+i’m a technologist at large in erlangen, germany.
 i work independently at the intersection of **developer experience**, **programming languages**, and **technical due diligence**.
 i also have vast experience in **security** and **network automation**, where i spend a lot of my professional engagements.
 
@@ -9,8 +9,8 @@ i live for expressive systems and delightful abstractions. this has often led me
 ##### currently
 
 i’m working on security & network automation tools over at [cyberwitchery labs](https://cyberwitchery.com/). check [the blog](https://cyberwitchery.com/log/) or
-find the work [on github](https://github.com/cyberwitchery/). for instance, check out [alembic](https://github.com/cyberwitchery/alembic) for an model-centric network
-automation tool, [contextual-encoder](https://github.com/cyberwitchery/contextual-encoder) for contextual encodings in rust, or [familiar](https://github.com/cyberwitchery/familiar)
+find the work [on github](https://github.com/cyberwitchery/). for instance, check out [alembic](https://github.com/cyberwitchery/alembic) for a model-centric network
+automation tool, [contextual-encoder](https://github.com/cyberwitchery/contextual-encoder) for xss-safe output encoding in rust, or [familiar](https://github.com/cyberwitchery/familiar)
 for a simple llm workflow orchestrator.
 
 ##### projects & contributions
