@@ -6,6 +6,17 @@ i also have vast experience in **security** and **network automation**, where i 
 
 i live for expressive systems and delightful abstractions.
 
+```
+(def foldr
+  {(f e m) ->
+    (({{{} {}} {() -> e}
+      {} {() ->
+        (({{{} {}} {() -> (f (this m) (next m) e)}
+          {} {() -> (f (this (this m)) (next (this m)) (foldr f e (next m)))}}
+          (= m {(this m) (next m)})))}}
+      (= {} m)))})
+```
+
 ##### currently
 
 i’m working on security & network automation tools over at [cyberwitchery lab](https://cyberwitchery.com/). find the work [on github](https://github.com/cyberwitchery/), such as [alembic](https://github.com/cyberwitchery/alembic) for a model-centric network
