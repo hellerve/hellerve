@@ -33,7 +33,7 @@ for a simple llm workflow orchestrator.
 
 ##### experiments
 
-- [**metacrap**](https://github.com/cyberwitchery/metacarp): a carp compiler written in carp, including an incremental compiler system for live editor integrations.
+- [**metacarp**](https://github.com/cyberwitchery/metacarp): a carp compiler written in carp, including an incremental compiler system for live editor integrations.
 - [**mae**](https://github.com/hellerve/mae): maps are everything. an experiment in map calculus.
 - [**cspfuck**](https://github.com/hellerve/cspfuck): brainfuck with actors, written in c, without dependencies, with a x86 jit.
 - [**cj**](https://github.com/hellerve-pl-experiments/cj): a dependency-free jit framework for c, with backends for x86 and arm64.
